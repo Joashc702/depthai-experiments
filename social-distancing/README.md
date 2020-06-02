@@ -1,5 +1,12 @@
 # Social distancing
 
+## Import
+```
+python3
+>import depthai
+>import consts
+```
+
 ## Install
 
 ```
